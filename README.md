@@ -1,0 +1,1 @@
+This repository contains solutions for various code problems writen in C++. All answers here are made from concept to final result by me.
